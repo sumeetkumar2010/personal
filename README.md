@@ -1,2 +1,2 @@
 # sumeetkumar.github.io
-Personal web app
+Personal web app for sumeet kumar
